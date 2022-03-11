@@ -1,0 +1,13 @@
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.AssemblyReference.cache
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfoInputs.cache
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfo.cs
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.CoreCompileInputs.cache
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.deps.json
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.json
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.dev.json
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.dll
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.pdb
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.dll
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.pdb
+/Users/mohammadalanazi/Desktop/kuwait coded stuff/gamedev-hw1/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.genruntimeconfig.cache
